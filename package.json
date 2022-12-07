@@ -1,0 +1,20 @@
+{
+  "name": "data-base",
+  "version": "1.0.0",
+  "description": "Fake Api data base",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "JSON",
+    "NPM",
+    "NODE"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
